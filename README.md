@@ -2,6 +2,9 @@
 
 This project provides a complete monitoring solution using Prometheus, Grafana, and Windows Exporter. It includes a sample web application that exposes metrics for monitoring.
 
+![Project Architecture](demo/archi-alertops.png)
+
+
 ## Components
 
 - **Web Application**: A Flask application that exposes metrics for monitoring
